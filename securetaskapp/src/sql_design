@@ -1,0 +1,47 @@
+Task_Manager
+---
+-- Project
+* id
+name
+-- User
+* id
+name
+ldap
+role_id
+-- Project_manage
+* project_id
+* pm_id
+# decription
+-- role
+* id
+role (manager, developer)
+-- task
+* id
+name
+start_date
+end_date
+duration (allow null)
+progress
+state (line_through)
+main_id (allow null)
+user_id (allow null)
+-- label
+* id
+name
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Entity
+@Table(name="role")
+
+@Id
+@GeneratedValue(strategy = GenerationType.IDENTITY)
+@Column(name="id")
+
+@OneToMany(mappedBy = "project")
+private List<ProjectManage> projectManages;
+
+@ManyToOne
+@JoinColumn(name="pm_id", insertable = false, updatable = false)
+private User projectManager;

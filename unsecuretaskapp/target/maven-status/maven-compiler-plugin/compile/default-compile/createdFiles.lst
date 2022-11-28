@@ -1,0 +1,17 @@
+com/web/entities/User.class
+com/web/repository/ILabelRepository.class
+com/web/service/impl/UserService.class
+com/web/service/IUserService.class
+com/web/controller/LoginController.class
+com/web/repository/IProjectRepository.class
+com/web/repository/IRoleRepository.class
+com/web/entities/Task.class
+com/web/entities/Project.class
+com/web/entities/Label.class
+com/web/repository/ITaskRepository.class
+com/web/repository/IUserRepository.class
+com/web/entities/Role.class
+com/web/controller/HomeController.class
+com/web/model/UserDTO.class
+com/web/service/impl/UserService$UserRowMapper.class
+com/web/Main.class

@@ -1,0 +1,7 @@
+com/web/entities/Task.class
+com/web/entities/Project.class
+com/web/entities/User.class
+com/web/entities/Role.class
+com/web/entities/Label.class
+com/web/Main.class
+com/web/controller/HomeController.class

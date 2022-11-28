@@ -1,0 +1,16 @@
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/Main.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/controller/HomeController.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/entities/Role.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/service/IUserService.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/entities/Label.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/repository/ILabelRepository.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/repository/IRoleRepository.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/repository/IUserRepository.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/repository/IProjectRepository.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/repository/ITaskRepository.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/entities/Project.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/entities/User.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/entities/Task.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/model/UserDTO.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/service/impl/UserService.java
+/home/thachpham/Desktop/taskapp/unsecuretaskapp/src/main/java/com/web/controller/LoginController.java
